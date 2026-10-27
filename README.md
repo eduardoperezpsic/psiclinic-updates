@@ -29,6 +29,6 @@ Abre **Buscar actualizaciones** dentro de PsiClinic. Cuando la descarga esté li
 
 ## Soporte
 
-Escríbeme a **eduardoperez.psic@gmail.com** con la versión del programa, tu versión de Windows y los pasos que producen el problema. Utiliza datos ficticios en las capturas y no envíes expedientes, contraseñas ni códigos de recuperación.
+Escríbeme a **eduardoperez.psic@gmail.com** con la versión del programa, tu versión de Windows y los pasos que producen el problema.
 
 [PsiClinic para Mac con Apple Silicon](https://github.com/eduardoperezpsic/psiclinic-mac)
